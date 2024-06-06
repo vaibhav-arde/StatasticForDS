@@ -1,2 +1,2 @@
 # StatasticForDS
-This Repo has all statastics required for DataScience learning
+This Repo has all statistics required for DataScience learning
